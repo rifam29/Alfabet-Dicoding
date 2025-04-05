@@ -51,7 +51,7 @@ header .wrapper {
   justify-content: center;
 
   column-gap: 2%;
-  row-gap: 24px; 
+  row-gap: 24px;
 }
 
 .char-item {
