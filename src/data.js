@@ -8,7 +8,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/chicken.png',
+        img: 'src/images/chicken.png',
         title: 'Ayam',
       },
     ],
@@ -22,7 +22,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/pillow.png',
+        img: 'src/images/pillow.png',
         title: 'Bantal',
       },
     ],
@@ -36,7 +36,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/hoe.png',
+        img: 'src/images/hoe.png',
         title: 'Cangkul',
       },
     ],
@@ -50,7 +50,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/leaf.png',
+        img: 'src/images/leaf.png',
         title: 'Daun',
       },
     ],
@@ -64,7 +64,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/eagle.png',
+        img: 'src/images/eagle.png',
         title: 'Elang',
       },
     ],
@@ -78,7 +78,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/photo-gallery.png',
+        img: 'src/images/photo-gallery.png',
         title: 'Foto',
       },
     ],
@@ -92,7 +92,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/elephant.png',
+        img: 'src/images/elephant.png',
         title: 'Gajah',
       },
     ],
@@ -106,7 +106,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/towel.png',
+        img: 'src/images/towel.png',
         title: 'Handuk',
       },
     ],
@@ -120,7 +120,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/broom.png',
+        img: 'src/images/broom.png',
         title: 'Ijuk',
       },
     ],
@@ -134,7 +134,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/suit.png',
+        img: 'src/images/suit.png',
         title: 'Jas',
       },
     ],
@@ -148,7 +148,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/chalk.png',
+        img: 'src/images/chalk.png',
         title: 'Kapur',
       },
     ],
@@ -162,7 +162,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/light-bulb.png',
+        img: 'src/images/light-bulb.png',
         title: 'Lampu',
       },
     ],
@@ -176,7 +176,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/car.png',
+        img: 'src/images/car.png',
         title: 'Mobil',
       },
     ],
@@ -190,7 +190,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/rice.png',
+        img: 'src/images/rice.png',
         title: 'Nasi',
       },
     ],
@@ -204,7 +204,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/torch.png',
+        img: 'src/images/torch.png',
         title: 'Obor',
       },
     ],
@@ -218,7 +218,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/beach.png',
+        img: 'src/images/beach.png',
         title: 'Pantai',
       },
     ],
@@ -232,7 +232,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/quran.png',
+        img: 'src/images/quran.png',
         title: "Qur'an",
       },
     ],
@@ -246,7 +246,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/chain.png',
+        img: 'src/images/chain.png',
         title: 'Rantai',
       },
     ],
@@ -260,7 +260,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/belt.png',
+        img: 'src/images/belt.png',
         title: 'Sabuk',
       },
     ],
@@ -274,7 +274,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/rope.png',
+        img: 'src/images/rope.png',
         title: 'Tali',
       },
     ],
@@ -288,7 +288,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/sweet-potato.png',
+        img: 'src/images/sweet-potato.png',
         title: 'Ubi',
       },
     ],
@@ -302,7 +302,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/vase.png',
+        img: 'src/images/vase.png',
         title: 'Vas',
       },
     ],
@@ -316,7 +316,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/color-palette.png',
+        img: 'src/images/color-palette.png',
         title: 'Warna',
       },
     ],
@@ -330,7 +330,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/xylophone.png',
+        img: 'src/images/xylophone.png',
         title: 'Xilofon',
       },
     ],
@@ -344,7 +344,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/yoga-pose.png',
+        img: 'src/images/yoga-pose.png',
         title: 'Yoga',
       },
     ],
@@ -358,7 +358,7 @@ const alphabets = [
     },
     examples: [
       {
-        img: '/src/images/zebra.png',
+        img: 'src/images/zebra.png',
         title: 'Zebra',
       },
     ],
